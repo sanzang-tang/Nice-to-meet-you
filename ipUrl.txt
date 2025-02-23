@@ -1,5 +1,5 @@
-https://github.com/sanzang-tang/Nice-to-meet-you/blob/main/ipJP.txtt@141.147.163.68
-https://github.com/sanzang-tang/Nice-to-meet-you/blob/main/ipHK.txt@47.76.218.163
+https://github.com/sanzang-tang/Nice-to-meet-you/blob/main/ipJP.txt@141.147.163.68
+https://raw.githubusercontent.com/sanzang-tang/Nice-to-meet-you/refs/heads/main/ipHK.txt@47.76.218.163
 https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipv4.csv
 https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipUS.txt@162.216.242.206
 
